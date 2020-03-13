@@ -1,0 +1,10 @@
+server:
+  port: 3000
+
+db:
+  type: 'mariadb'
+  host: 'brewzer-db.ca5iweys3xma.us-west-1.rds.amazonaws.com'
+  port: 3306
+  username: 'brewmaster'
+  password: '98o718Db'
+  database: 'chess'
